@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="{https://your-demo-link.your-domain}">
+    <a href="https://davidpayet.github.io/simple-faq/">
       Demo
     </a>
     <span> | </span>
-    <a href="{https://your-url-to-the-solution}">
+    <a href="https://github.com/DavidPayet/simple-faq">
       Solution
     </a>
     <span> | </span>
@@ -31,7 +31,6 @@
   - [What I learned](#what-i-learned)
   - [Built with](#built-with)
 - [Features](#features)
-- [Author](#author)
 
 <!-- OVERVIEW -->
 
@@ -62,8 +61,3 @@ This application/site includes the following features:
 - A responsive FAQ page that adapts to different screen sizes.
 - Clean and accessible design.
 - Links for navigation to external resources.
-
-## Author
-
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
